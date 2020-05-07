@@ -69,3 +69,5 @@ $ python -m ipykernel install --user --name book_base_pymc3
 
 8. 주피터 노트북을 실행하면 인터넷 브라우저에서 노트북을 이용할 수 있습니다.
 $ jupyter notebook
+
+실습에 필요한 101_ObjectCategories 파일은 '여기'를 클릭해도 내려받을 수 있습니다.
