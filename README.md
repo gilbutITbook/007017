@@ -71,3 +71,4 @@ $ python -m ipykernel install --user --name book_base_pymc3
 $ jupyter notebook
 
 - 실습에 필요한 101_ObjectCategories 파일은 [여기](https://github.com/gilbutITbook/007017/releases/download/0.1/101_ObjectCategories.tar.gz)를 클릭해도 내려받을 수 있습니다.
+- 자세한 실습 환경 설정 방법은 책의 부록 B를 참고하세요.
