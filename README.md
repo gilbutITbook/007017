@@ -1,6 +1,6 @@
 # <머신 러닝을 다루는 기술 with 파이썬, 사이킷런>(길벗, 2020) 도서의 예제 파일입니다.
 
-# 환경 설정 방법
+## 환경 설정 방법
 
 ## 전체 실습 환경 설정
 1. Anaconda를 설치합니다. <br/>
@@ -70,4 +70,4 @@ $ python -m ipykernel install --user --name book_base_pymc3
 8. 주피터 노트북을 실행하면 인터넷 브라우저에서 노트북을 이용할 수 있습니다.  <br/>
 $ jupyter notebook
 
-실습에 필요한 101_ObjectCategories 파일은 [여기](https://github.com/gilbutITbook/007017/releases/download/0.1/101_ObjectCategories.tar.gz)를 클릭해도 내려받을 수 있습니다.
+- 실습에 필요한 101_ObjectCategories 파일은 [여기](https://github.com/gilbutITbook/007017/releases/download/0.1/101_ObjectCategories.tar.gz)를 클릭해도 내려받을 수 있습니다.
